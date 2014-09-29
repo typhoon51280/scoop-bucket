@@ -4,11 +4,11 @@
 	"license" : "MIT",
 	"architecture" : {
 		"64bit" : {
-			"url" : "http://nodejs.org/dist/v0.10.31/x64/node-v0.10.32-x64.msi",
+			"url" : "http://nodejs.org/dist/v0.10.32/x64/node-v0.10.32-x64.msi",
 			"hash" : "85178339767794c06ce7f035a25f10542375049b8c1b8a8521b8c131b571adc6"
 		},
 		"32bit" : {
-			"url" : "http://nodejs.org/dist/v0.10.31/node-v0.10.32-x86.msi",
+			"url" : "http://nodejs.org/dist/v0.10.32/node-v0.10.32-x86.msi",
 			"hash" : "6d07347395f30e70af7ad2a7cb333e497655dd6489fc8a7b4e0d903c4abf6b0b"
 		}
 	},
